@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Project\\Payroll System\\Payroll-System\\Payroll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31298AEB-DFEF-4CBC-8A62-0C8EACB5FC34}|Payroll\\Payroll.csproj|e:\\my project\\payroll system\\payroll-system\\payroll\\payroll\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31298AEB-DFEF-4CBC-8A62-0C8EACB5FC34}|Payroll\\Payroll.csproj|solutionrelative:payroll\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31298AEB-DFEF-4CBC-8A62-0C8EACB5FC34}|Payroll\\Payroll.csproj|e:\\my project\\payroll system\\payroll-system\\payroll\\payroll\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31298AEB-DFEF-4CBC-8A62-0C8EACB5FC34}|Payroll\\Payroll.csproj|solutionrelative:payroll\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31298AEB-DFEF-4CBC-8A62-0C8EACB5FC34}|Payroll\\Payroll.csproj|e:\\my project\\payroll system\\payroll-system\\payroll\\payroll\\interfaces\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31298AEB-DFEF-4CBC-8A62-0C8EACB5FC34}|Payroll\\Payroll.csproj|solutionrelative:payroll\\interfaces\\iempservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31298AEB-DFEF-4CBC-8A62-0C8EACB5FC34}|Payroll\\Payroll.csproj|e:\\my project\\payroll system\\payroll-system\\payroll\\payroll\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31298AEB-DFEF-4CBC-8A62-0C8EACB5FC34}|Payroll\\Payroll.csproj|solutionrelative:payroll\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31298AEB-DFEF-4CBC-8A62-0C8EACB5FC34}|Payroll\\Payroll.csproj|e:\\my project\\payroll system\\payroll-system\\payroll\\payroll\\services\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31298AEB-DFEF-4CBC-8A62-0C8EACB5FC34}|Payroll\\Payroll.csproj|solutionrelative:payroll\\services\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "E:\\My Project\\Payroll System\\Payroll-System\\Payroll\\Payroll\\models\\Response.cs",
+              "RelativeDocumentMoniker": "Payroll\\models\\Response.cs",
+              "ToolTip": "E:\\My Project\\Payroll System\\Payroll-System\\Payroll\\Payroll\\models\\Response.cs",
+              "RelativeToolTip": "Payroll\\models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:09:07.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmpService.cs",
+              "DocumentMoniker": "E:\\My Project\\Payroll System\\Payroll-System\\Payroll\\Payroll\\interfaces\\IEmpService.cs",
+              "RelativeDocumentMoniker": "Payroll\\interfaces\\IEmpService.cs",
+              "ToolTip": "E:\\My Project\\Payroll System\\Payroll-System\\Payroll\\Payroll\\interfaces\\IEmpService.cs",
+              "RelativeToolTip": "Payroll\\interfaces\\IEmpService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:47:41.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpModel.cs",
+              "DocumentMoniker": "E:\\My Project\\Payroll System\\Payroll-System\\Payroll\\Payroll\\models\\EmpModel.cs",
+              "RelativeDocumentMoniker": "Payroll\\models\\EmpModel.cs",
+              "ToolTip": "E:\\My Project\\Payroll System\\Payroll-System\\Payroll\\Payroll\\models\\EmpModel.cs",
+              "RelativeToolTip": "Payroll\\models\\EmpModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:47:31.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpService.cs",
+              "DocumentMoniker": "E:\\My Project\\Payroll System\\Payroll-System\\Payroll\\Payroll\\services\\EmpService.cs",
+              "RelativeDocumentMoniker": "Payroll\\services\\EmpService.cs",
+              "ToolTip": "E:\\My Project\\Payroll System\\Payroll-System\\Payroll\\Payroll\\services\\EmpService.cs",
+              "RelativeToolTip": "Payroll\\services\\EmpService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:46:35.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "E:\\My Project\\Payroll System\\Payroll-System\\Payroll\\Payroll\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "Payroll\\Controllers\\EmpController.cs",
+              "ToolTip": "E:\\My Project\\Payroll System\\Payroll-System\\Payroll\\Payroll\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "Payroll\\Controllers\\EmpController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T18:25:16.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
